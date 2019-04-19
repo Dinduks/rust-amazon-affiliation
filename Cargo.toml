@@ -5,3 +5,5 @@ authors = ["Samy Dindane <samy@dindane.com>"]
 edition = "2018"
 
 [dependencies]
+rust-ini = "0.13"
+url = "1.7.2"
